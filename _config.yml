@@ -30,7 +30,7 @@ twitter_username: 0xdilydali
 github_username:  dilydali
 
 # Build settings
-theme: Midnight
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
